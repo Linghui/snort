@@ -181,7 +181,7 @@ export const InitState = {
         confirmReposts: false,
         showDebugMenus: false,
         autoShowLatest: false,
-        fileUploader: "void.cat",
+        fileUploader: "nostr.build",
         imgProxyConfig: DefaultImgProxy
     }
 } as LoginStore;
