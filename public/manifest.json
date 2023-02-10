@@ -1,6 +1,6 @@
 {
-  "short_name": "Snort",
-  "name": "snort.social - Nostr interface",
+  "short_name": "Sort",
+  "name": "sort.social - Nostr interface",
   "description": "Fast nostr web ui",
   "icons": [
     {

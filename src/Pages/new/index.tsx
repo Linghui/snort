@@ -33,15 +33,15 @@ export default function NewUserFlow() {
 
     return (
         <>
-            <h1>Welcome to Snort!</h1>
+            <h1>Welcome to Sort!</h1>
             <p>
-                Snort is a Nostr UI, nostr is a decentralised protocol for saving and distributing "notes".
+                Sort is a Nostr UI, nostr is a decentralised protocol for saving and distributing "notes".
             </p>
             <p>
                 Notes hold text content, the most popular usage of these notes is to store "tweet like" messages.
             </p>
             <p>
-                Snort is designed to have a similar experience to Twitter.
+                Sort is designed to have a similar experience to Twitter.
             </p>
 
             <h2>Keys</h2>

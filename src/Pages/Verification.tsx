@@ -6,7 +6,7 @@ import './Verification.css'
 export default function VerificationPage() {
     const services = [
         {
-            name: "Snort",
+            name: "Sort",
             service: `${ApiHost}/api/v1/n5sp`,
             link: "https://snort.social/",
             supportLink: "https://snort.social/help",

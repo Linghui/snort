@@ -1,8 +1,8 @@
-## Snort
+## Sort
 
-Snort is a nostr UI built with React, Snort intends to be fast and effecient
+Sort is a nostr UI built with React, Sort intends to be fast and effecient, fork from Snort project
 
-Snort supports the following NIP's:
+Sort supports the following NIP's:
 
 - [x] NIP-01: Basic protocol flow description
 - [x] NIP-02: Contact List and Petnames (No petname support)
