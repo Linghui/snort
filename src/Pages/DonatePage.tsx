@@ -58,7 +58,7 @@ const DonatePage = () => {
         <div className="main-content m5">
             <h2>Help fund the development of Sort</h2>
             <p>
-                Sort is an open source project built by passionate people in their free time
+                Sort is created based on an open source project Snort built by passionate people in their free time
             </p>
             <p>
                 Your donations are greatly appreciated
